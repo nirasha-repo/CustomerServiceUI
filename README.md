@@ -1,4 +1,4 @@
-# MalindoTestUI
+# CustomerServiceUI
 
 This is a React UI CRUD Application developed with React Router & Axios. 
 We can consume REST APIs for CRUD operations via UI components providing valid 
@@ -18,7 +18,7 @@ Instructions to run the application:
 
 2) Download the Web Application from the git repo to your local directory
 
-https://github.com/manojhome/MalindoTestUI
+https://github.com/manojhome/CustomerServiceUI
 
 3) Go to file http-common.js and include ur API Authentication key below
 
@@ -30,10 +30,10 @@ https://github.com/manojhome/MalindoTestUI
 
 5) Save everything and build the application running below command under given directory
 
-    MalindoTestUI\react-ui> npm run-script build
+    CustomerServiceUI\react-ui> npm run-script build
 
 6) Run the project with below command
 
-    MalindoTestUI\react-ui> npm start 
+    CustomerServiceUI\react-ui> npm start 
 
 7) Enjoy your REACT UI with CRUD operations!
